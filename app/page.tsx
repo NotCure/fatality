@@ -21,7 +21,7 @@ export default function Home() {
           </div>
           <div className="flex flex-row items-center justify-center gap-4">
             <a
-              className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center hover:bg-foreground bg-transparent text-white gap-2 border-[#5564e9] text-lg sm:text-xl  h-16  px-8"
+              className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center hover:bg-foreground bg-transparent text-white gap-2  border-[#5664ee] text-lg sm:text-xl  h-16  px-8"
               href=""
               target="_blank"
               rel="noopener noreferrer"
@@ -36,7 +36,7 @@ export default function Home() {
               Download !
             </a>
             <a
-              className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center hover:bg-foreground bg-transparent text-white gap-2 border-[#5564e9] text-lg sm:text-xl  h-16  px-6"
+              className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center hover:bg-foreground bg-transparent text-white gap-2  border-[#5664ee] text-lg sm:text-xl  h-16  px-6"
               href=""
               target="_blank"
               rel="noopener noreferrer"
