@@ -29,7 +29,7 @@ export default function Home() {
               <Image
                 className="dark:invert"
                 src="/NoBg.png"
-                alt="Vercel logomark"
+                alt="logo"
                 width={30}
                 height={30}
               />
@@ -44,7 +44,7 @@ export default function Home() {
               <Image
                 className="dark:invert"
                 src="/discord.svg"
-                alt="Vercel logomark"
+                alt="discord"
                 width={30}
                 height={30}
               />
