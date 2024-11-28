@@ -8,8 +8,8 @@ export default function Home() {
           <div className="flex flex-row items-center justify-center gap-4">
             <Image
               className="dark:invert"
-              src="/No BG.png"
-              alt="Next.js logo"
+              src="/nobg.png"
+              alt="logo"
               width={180}
               height={38}
               priority
@@ -28,7 +28,7 @@ export default function Home() {
             >
               <Image
                 className="dark:invert"
-                src="/NoBg.png"
+                src="/nobg.png"
                 alt="logo"
                 width={30}
                 height={30}
